@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/digital-garden-homepage/","tags":["gardenEntry"]}
 ---
 
-This is not home
+This is not home!
