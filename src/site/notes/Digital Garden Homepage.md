@@ -4,3 +4,4 @@
 
 This is not home!
 fgdfgdfgdfg
+**ФИО:** {{ ваша группа }} {{ ваше имя }}
